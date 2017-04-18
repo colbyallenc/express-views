@@ -1,0 +1,28 @@
+/*body {
+	background:#fff;
+	color: #444;
+	font-size: 16px;
+	font-weight:300;*/
+	/*font-family:'Open Sans', Arial, sans-serif;*/
+/*}*/
+
+/*ul#menu-main > li > a {
+	font-weight: 600;
+	color: #fff;
+	font-size:14px;
+	text-transform:uppercase;
+}
+
+ul#menu-main > li > a:hover {
+	padding: 9px 15px;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+}
+ul#menu-main > li > a:focus {
+	outline:0;
+}*/
+
+body {
+  width: 100%;
+}
